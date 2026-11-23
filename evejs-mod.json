@@ -1,0 +1,38 @@
+{
+  "author": {
+    "id": "au-muxt6kcyxsf4",
+    "keyId": "54c1f8afabfe",
+    "name": "Materal"
+  },
+  "category": "玩法",
+  "changelog": "",
+  "conflicts": [],
+  "delisted": false,
+  "description": "北极星居中，六座星门直达六区入口，第七座朱庇特星门直通吉他。61 个星系按六区十星布局开放主权、异常和工业资源。北极星保留四座原生站，六区入口各设三座任务站，共有 90 名安全代理人。",
+  "displayName": "UUA-F4 星域",
+  "downloadUrls": [
+    {
+      "mirror": "github",
+      "priority": 1,
+      "url": "https://github.com/MateralCMX/evejs-mod-uua-f4/releases/download/v0.1.29/uua-f4-0.1.29.zip"
+    }
+  ],
+  "evejsVersions": [
+    "261115.2"
+  ],
+  "featured": false,
+  "highlights": [],
+  "history": [],
+  "id": "uua-f4",
+  "publishedAt": "2026-11-23",
+  "readme": [
+    "登录时自动加载星图和天体缓存补丁；叠加其他模组后超过体积限制时，会压缩完整登录脚本。",
+    "显示安等 0.5 及以下的星系内，每颗卫星均提供月矿开采点，资源种类遵循本档安等规则。客户端跃迁菜单和精炼厂部署使用服务端同一份开采点坐标。"
+  ],
+  "repo": "https://github.com/MateralCMX/evejs-mod-uua-f4",
+  "requiresRestart": true,
+  "sha256": "b58edc7f436eb950c94e589dc6cfe1205266e6a1db9e4fa44eef564d57af6e3f",
+  "sizeBytes": 51231,
+  "tags": [],
+  "version": "0.1.29"
+}
